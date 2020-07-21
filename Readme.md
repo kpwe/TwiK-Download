@@ -7,11 +7,13 @@
 
 ## 설치하기
 
-팟플레이어 다운로드
+* 팟플레이어 다운로드
 
 [PotPlayerSetup x86](http://get.daum.net/PotPlayer/Version/Latest/PotPlayerSetup.exe)
 
 [PotPlayerSetup x64](http://get.daum.net/PotPlayer64/Version/Latest/PotPlayerSetup64.exe)
+
+* 트윅 다운로드
 
 Git을 사용하여 다운받기
 
